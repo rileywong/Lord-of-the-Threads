@@ -397,7 +397,6 @@ static void* map(void* v){
 static void* reduce(void* v){
 
   while(1){
-   // printf("%s\n","the fuck" );
    //char buf[5000];
   //pthread_mutex_lock(&fileLock);
   
